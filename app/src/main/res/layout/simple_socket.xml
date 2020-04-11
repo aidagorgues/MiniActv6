@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/socket_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/socket_ip"
+        android:layout_margin="20dp"/>
+
+    <EditText
+        android:id="@+id/socket_port"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/socket_port"
+        android:layout_margin="20dp"/>
+
+    <EditText
+        android:id="@+id/socket_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/socket_button"
+        android:layout_margin="60dp"/>
+
+    <EditText
+        android:id="@+id/socket_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/socket_input"
+        android:layout_margin="20dp"/>
+
+    <EditText
+        android:id="@+id/socket_output"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/socket_output"
+        android:layout_margin="20dp"/>
+
+
+</LinearLayout>

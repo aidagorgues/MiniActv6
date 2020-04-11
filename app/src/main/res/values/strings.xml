@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleSocket</string>
+    <string name="socket_ip">Ip</string>
+    <string name="socket_port">Port</string>
+    <string name="socket_input">Input</string>
+    <string name="socket_button">Button Text</string>
+    <string name="socket_output">Text</string>
+</resources>

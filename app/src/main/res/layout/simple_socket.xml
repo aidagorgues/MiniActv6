@@ -20,7 +20,7 @@
         android:hint="@string/socket_port"
         android:layout_margin="20dp"/>
 
-    <EditText
+    <Button
         android:id="@+id/socket_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
